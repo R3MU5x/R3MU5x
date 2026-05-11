@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Jan 👋
 
-<!--
-**R3MU5x/R3MU5x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & Security Engineer based in Germany 🇩🇪
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Daily work: Firewalls, Network Segmentation, SIEM, IR
+- 🐧 Linux enthusiast — running CachyOS with fish shell
+- 🔐 Interested in: nftables, eBPF, WireGuard, Zero Trust architectures
+- ☕ Powered by coffee and curiosity
+
+### Currently
+
+- 🛠️ Building [pwgenerator](https://github.com/R3MU5x/pwgenerator) — a password generator
+- 📚 Diving deeper into eBPF and kernel-level networking
+- 🧪 Tinkering with home lab security setups
+
+### Connect
+
+[![Email](https://img.shields.io/badge/Email-jan.spreier%40proton.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:jan.spreier@proton.me)
+
+---
+
+*"The cloud is just someone else's computer."*
