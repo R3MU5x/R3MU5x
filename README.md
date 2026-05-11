@@ -4,20 +4,21 @@ Network & Security Engineer based in Germany 🇩🇪
 
 ### About me
 
-- 🔧 Daily work: Firewalls, Network Segmentation, SIEM, IR
+- 🔧 Daily work: Firewalls, Network Segmentation, Threat Detection & Response
 - 🐧 Linux enthusiast — running CachyOS with fish shell
-- 🔐 Interested in: nftables, eBPF, WireGuard, Zero Trust architectures
+- 🔐 Interested in: eBPF, Zero Trust architectures etc.
 - ☕ Powered by coffee and curiosity
 
 ### Currently
 
-- 🛠️ Building [pwgenerator](https://github.com/R3MU5x/pwgenerator) — a password generator
+- 🔨 Building [VirtualPasteTool](https://github.com/R3MU5x/VirtualPasteTool) — keyboard simulation for VMs & remote sessions
+- 🔨 Building [PasswordGeneratorTool](https://github.com/R3MU5x/PasswordGeneratorTool) — offline GUI password & passphrase generator
 - 📚 Diving deeper into eBPF and kernel-level networking
-- 🧪 Tinkering with home lab security setups
+- 🔬 Experimenting with home lab security setups
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/Email-jan.spreier%40proton.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:jan.spreier@proton.me)
+[![Email](https://img.shields.io/badge/Email-jan.spreier%40proton.me-8b5cf6?style=flat&logo=protonmail&logoColor=white)](mailto:jan.spreier@proton.me)
 
 ---
 
