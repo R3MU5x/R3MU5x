@@ -18,7 +18,7 @@ Network & Security Engineer based in Germany 🇩🇪
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/Email-jan.spreier%40proton.me-8b5cf6?style=flat&logo=protonmail&logoColor=white)](mailto:r3mu5x@pm.me)
+[![Email](https://img.shields.io/badge/Email-r3mu5x%40pm.me-8b5cf6?style=flat&logo=protonmail&logoColor=white)](mailto:r3mu5x@pm.me)
 
 ---
 
