@@ -21,15 +21,15 @@
 
 - 🔧 Daily work: **Firewalls**, **Network Segmentation**, **Threat Detection & Response**
 - 🐧 Linux enthusiast — running **CachyOS** with **fish** shell
-- 🔐 Interested in: **eBPF**, **Zero Trust** architectures etc.
-- ☕ Powered by coffee and curiosity
+- 🔐 Interested in: **Network Security**, **Zero Trust** & **Infrastructure Hardening**
+- ☕ Powered by **coffee** and **curiosity**
 
 ## 🔨 Currently
 
 - Building [**VirtualPasteTool**](https://github.com/R3MU5x/VirtualPasteTool) — keyboard simulation for VMs & remote sessions
 - Building [**PasswordGeneratorTool**](https://github.com/R3MU5x/PasswordGeneratorTool) — offline GUI password & passphrase generator
-- 📚 Diving deeper into **eBPF** and kernel-level networking
-- 🔬 Experimenting with home lab security setups
+- 📚 Diving deeper into **detection engineering** and **network & security analysis**
+- 🧪 Experimenting with **home lab security setups**
 
 ---
 
