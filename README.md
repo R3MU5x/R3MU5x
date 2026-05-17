@@ -5,9 +5,10 @@
 <!-- =========================================================== -->
 
 <!-- Header wave (self-hosted SVG — no external service dependency) -->
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/R3MU5x/R3MU5x/main/assets/header.svg" alt="Hi Jan — Network & Security Engineer · Germany" />
+  <img src="https://raw.githubusercontent.com/R3MU5x/R3MU5x/main/assets/header.svg" alt="Hi i'm Jan — Network & Security Engineer · Germany" />
 
 </div>
 
