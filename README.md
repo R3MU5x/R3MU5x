@@ -39,31 +39,42 @@
   <img src="https://skillicons.dev/icons?i=linux,kali,bsd,python,docker,nginx,git,github,vscode,neovim,pycharm,grafana,obsidian,arduino,raspberrypi&perline=8" />
 </p>
 
-### 🛡️ Security tools
-<p>
+<h2>🛡️ Security tools</h2>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EF4136?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/eBPF-FF6B00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zeek-101820?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wazuh-005EAA?style=for-the-badge" />
 </p>
 
-### 🌐 Network & Vendor
-<p>
+<h2>🌐 Network & Vendor</h2>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sophos-009ACD?style=for-the-badge&logo=sophos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sophos-0099CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge" />
 </p>
 
+<h2>📊 Monitoring & Infrastructure</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-
-
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=R3MU5x&stroke=ffffff&background=0c0e16&ring=8b5cf6&fire=a855f7&currStreakNum=ffffff&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=ffffff&dates=cccccc&hide_border=true" alt="streak" />
+
 
 </div>
 
@@ -94,6 +105,7 @@
   <a href="mailto:r3mu5x@pm.me"><img src="https://img.shields.io/badge/Email-r3mu5x%40pm.me-8b5cf6?style=for-the-badge&logo=protonmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/R3MU5x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
+
 
 ---
 
