@@ -20,7 +20,7 @@
 ## 🛡️ About me
 
 - 🔧 Daily work: **Firewalls**, **Network Segmentation**, **Threat Detection & Response**
-- 🐧 Linux enthusiast — running **CachyOS** with **fish** shell
+- 🐧 Linux enthusiast — running **CachyOS**
 - 🔐 Interested in: **Network Security**, **Zero Trust** & **Infrastructure Hardening**
 - ☕ Powered by **coffee** and **curiosity**
 
