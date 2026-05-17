@@ -61,17 +61,12 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R3MU5x&show_icons=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&bg_color=0c0e16&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
+
 
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=R3MU5x&stroke=ffffff&background=0c0e16&ring=8b5cf6&fire=a855f7&currStreakNum=ffffff&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=ffffff&dates=cccccc&hide_border=true" alt="streak" />
 
 </div>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3MU5x&langs_count=10&layout=compact&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&bg_color=0c0e16&hide_border=true&custom_title=Top%20Languages" alt="top langs" />
-
-</div>
 
 ## 📈 Activity
 
