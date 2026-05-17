@@ -103,10 +103,19 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:r3mu5x@pm.me"><img src="https://img.shields.io/badge/Email-r3mu5x%40pm.me-8b5cf6?style=for-the-badge&logo=protonmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/R3MU5x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="mailto:R3MU5X@PM.ME">
+    <img src="https://img.shields.io/badge/Email-R3MU5X%40PM.ME-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/R3MU5x">
+    <img src="https://img.shields.io/badge/GitHub-R3MU5x-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jan-spreier/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jan%20Spreier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/R3MU5">
+    <img src="https://img.shields.io/badge/TryHackMe-R3MU5-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
