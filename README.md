@@ -14,7 +14,7 @@
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://github.com/R3MU5x">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Firewalls+%C2%B7+Segmentation+%C2%B7+Detection+%26+Response;Linux+enthusiast+on+CachyOS+with+fish+shell;Diving+into++Zero+Trust+architectures;Powered+by+coffee+and+curiosity;The+cloud+is+just+someone+else%27s+computer." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=Firewalls+%C2%B7+Segmentation+%C2%B7+Detection+%26+Response;Linux+enthusiast+on+CachyOS;Diving+into++Zero+Trust+architectures;Powered+by+coffee+and+curiosity;The+cloud+is+just+someone+else%27s+computer." alt="typing" />
   </a>
 </p>
 
