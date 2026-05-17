@@ -6,11 +6,7 @@
 
 <!-- Header wave (self-hosted SVG — no external service dependency) -->
 
-<div align="center">
 
-  <img src="https://raw.githubusercontent.com/R3MU5x/R3MU5x/main/assets/header.svg" alt="Hi i'm Jan — Network & Security Engineer · Germany" />
-
-</div>
 
 <!-- Animated typing intro -->
 <p align="center">
@@ -93,15 +89,7 @@
 
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-  ![snake](https://raw.githubusercontent.com/R3MU5x/R3MU5x/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> *Auto-generated every 12h via the [Platane/snk](https://github.com/Platane/snk) action — workflow at `.github/workflows/snake.yml`*
 
 ---
 
@@ -125,9 +113,3 @@
   <sub><i>"The cloud is just someone else's computer."</i></sub>
 </div>
 
-<!-- Footer wave (self-hosted SVG) -->
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/R3MU5x/R3MU5x/main/assets/footer.svg" alt="footer" />
-
-</div>
