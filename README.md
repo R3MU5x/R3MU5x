@@ -22,6 +22,7 @@
   <code>Firewall</code> •
   <code>Cloud Security</code> •
   <code>Linux</code> •
+  <code>Pentest</code> •
   <code>SIEM</code> •
   <code>Threat Detection</code>
 </p>
