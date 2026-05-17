@@ -18,6 +18,14 @@
   </a>
 </p>
 
+<p align="center">
+  <code>Firewall</code> •
+  <code>Cloud Security</code> •
+  <code>Linux</code> •
+  <code>SIEM</code> •
+  <code>Threat Detection</code>
+</p>
+
 ---
 
 ## 🛡️ About me
