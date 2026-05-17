@@ -6,7 +6,10 @@
 
 <!-- Header wave (self-hosted SVG — no external service dependency) -->
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:7B2CBF,100:C77DFF&height=250&section=header&text=R3MU5x&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20and%20Security%20Engineer&descSize=20&descAlignY=55"/>
+</p>
+<h3 align="center">based in 🇩🇪</h3>
 
 <!-- Animated typing intro -->
 <p align="center">
@@ -130,3 +133,6 @@
   <sub><i>"The cloud is just someone else's computer."</i></sub>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2CBF,100:4B0082&height=120&section=footer"/>
+</p>
