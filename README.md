@@ -36,7 +36,7 @@
 ## 🔧 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,nginx,git,github,vscode,vim,raspberrypi&theme=dark" alt="tech" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bsd,python,docker,nginx,git,github,vscode,neovim,pycharm,grafana,obsidian,arduino,raspberrypi&perline=8" />
 </p>
 
 ### 🛡️ Security tools
